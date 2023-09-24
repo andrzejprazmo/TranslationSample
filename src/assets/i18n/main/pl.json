@@ -1,0 +1,12 @@
+{
+    "top-menu":{
+        "home": "Strona główna",
+        "about": "O programie"
+    },
+    "footer": {
+        "copyright": "Prawa autorskie"
+    },
+    "dashboard":{
+        "info": "To jest informacja"
+    }
+}

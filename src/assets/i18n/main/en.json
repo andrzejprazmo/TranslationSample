@@ -1,0 +1,12 @@
+{
+    "top-menu":{
+        "home": "Home page",
+        "about": "About"
+    },
+    "footer": {
+        "copyright": "Copyright"
+    },
+    "dashboard":{
+        "info": "This is information"
+    }
+}
